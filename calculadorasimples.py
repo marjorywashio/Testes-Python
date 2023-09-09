@@ -2,7 +2,7 @@ print("------- VERIFICAÇÃO DE MAIORIDADE -------\n")
 
 num1 = float(input("Digite o primeiro número: "))
 num2 = float(input("Digite o segundo número: "))
-operacao = input("Digite a operação que deseja realizar: ")
+operacao = input("Digite a operação que deseja realizar (+, -, / ou *): ")
 
 if operacao == "+":
     resultado = num1 + num2
