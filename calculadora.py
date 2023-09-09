@@ -4,7 +4,7 @@ valor = float(input("Digite o valor principal: "))
 
 juros = float(input("Digite a taxa de juros anual: "))
 
-tempo = int(input("Digite o tempo em anos: "))
+tempo = float(input("Digite o tempo em anos: "))
 
 juros1 = juros/100
 
