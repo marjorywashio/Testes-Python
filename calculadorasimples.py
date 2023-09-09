@@ -16,4 +16,6 @@ elif operacao == "/":
 elif operacao == "*":
     resultado = num1 * num2
     print(f"O resultado é {resultado}")
+else:
+    print("Operação não encontrada. Repita o cálculo.")
 
