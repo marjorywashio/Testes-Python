@@ -1,4 +1,4 @@
-print("------- VERIFICAÇÃO DE MAIORIDADE -------\n")
+print("------- CALCULADORA -------\n")
 
 num1 = float(input("Primeiro número: "))
 operacao = input("Operação(+ - / *): ")
@@ -22,4 +22,3 @@ else:
 
 if resultado != '':
     print(f"O resultado é {resultado}")
-
