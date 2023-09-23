@@ -6,7 +6,7 @@ from random import randint
 # O processo se repete até que o jogador acerte o valor sorteado.
 # - Refatore o código para que ao final, mostre quantas tentativas foram necessárias para acertar.
 
-numero = randint(1,10)
+numero = randint(1,100)
 tentativa = 1
 
 print("Adivinhe o número sorteado, de 0 a 100")
